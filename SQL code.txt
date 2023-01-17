@@ -1,0 +1,2 @@
+select first_name, last_name from customers
+select date, order_number from company_orders
